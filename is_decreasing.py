@@ -11,8 +11,10 @@ def is_decreasing(num_list):
 
     else:
         return False
-
+"""
 
 list1 = [10, 5, 3, 10]
 
 print(is_decreasing(list1))
+
+"""
